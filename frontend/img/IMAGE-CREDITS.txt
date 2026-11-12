@@ -1,0 +1,32 @@
+Vehicle image credits
+=====================
+
+electric-scooter.jpg
+  "Seattle (WA, USA), Pike Street, E-Scooter -- 2022 -- 1460.jpg" by Dietmar Rabich
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Pike_Street,_E-Scooter_--_2022_--_1460.jpg
+  License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+
+folding-bicycle.jpg
+  "Lulu Bike City side view.jpg" by Glurois
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Lulu_Bike_City_side_view.jpg
+  License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+
+mountain-bicycle.jpg
+  "Mountain bicycle.jpg" by Redjar at English Wikipedia
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Mountain_bicycle.jpg
+  License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+
+fixie-bicycle.jpg
+  "Overground fixie, Hipster Central.jpg" by sludgegulper
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Overground_fixie,_Hipster_Central.jpg
+  License: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+
+electric-bicycle.jpg
+  "LACMTA Bike Share electric bicycle - drive side.jpg" by Facewizard
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:LACMTA_Bike_Share_electric_bicycle_-_drive_side.jpg
+  License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+city-bicycle.jpg
+  "Azor Oma Oklahoma R3D Violet Matt.jpg" by Andrej Shadura
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Azor_Oma_Oklahoma_R3D_Violet_Matt.jpg
+  License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
